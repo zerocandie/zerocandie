@@ -1,6 +1,7 @@
-<h1 align="center">Привет! Я Никита 👋</h1>
+<h1 align="center">Привет! Я Nikita 👋</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tdzR0OG95c3k4bWZ2YmNrdTg1b2ZqZzM0aTNuaGVwaHg4NnEwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YPdMEZzHhceCQ/giphy.gif" width="300" alt="anime girl waving" />
+  <img src="https://media.giphy.com/media/QCJlIDkOJDEIctfdzz/giphy.gif" width="400" alt="Tokyo Ghoul anime" />
 </p>
 
 <p align="center">
@@ -50,8 +51,8 @@
 
 ### 📫 Связь со мной
 
-- 📬 Email: [nikita@example.com](mailto:nikita@example.com)  
-- 💬 Telegram: [@your_telegram_username](https://t.me/your_telegram_username)
+- 📬 Email: [PolyakovNV@edu.norvuz.ru](mailto:PolyakovNV@edu.norvuz.ru)  
+- 💬 Telegram: [@ithinkidie](https://t.me/ithinkidie)
 
 ---
 
@@ -60,4 +61,3 @@
 > *"Сложные задачи становятся простыми, когда ты понимаешь суть."*
 
 ---
-
