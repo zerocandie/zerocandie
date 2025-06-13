@@ -1,46 +1,47 @@
-<h1 align="center" style="color:#dcdcdc;">Добро пожаловать в мой цифровой угол</h1>
+<h1 align="center" style="color:#dcdcdc;">Welcome to My Digital Lair</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/2XLoAphEiufV6/giphy.gif" width="400" alt="Ken Watanabe" />
 </p>
 
 <p align="center">
-  <em style="color:#aaaaaa;">Python • C# • C++ | Темный разработчик в мире квантовых вычислений, ИИ и сетей</em>
+  <em style="color:#aaaaaa;">Python • C# • C++ | A shadow developer in the realms of quantum computing, AI, and complex systems</em>
 </p>
 
 ---
 
-### 🧠 Обо мне
+### 🧠 About Me
 
-- 💻 Языки: **Python**, **C#**, **C++**
-- 🧠 Работа с **нейросетями**, **тензорными сетями**, **квантовыми библиотеками**
-- 🧩 Разработка надстроек, low-level и data-driven логики
-- 🗄️ Работа с **реляционными и NoSQL базами данных**
-- 🧪 Много опыта с библиотеками Python для ИИ и анализа данных
+- 💻 Languages: **Python**, **C#**, **C++**
+- 🧠 Experience with **neural networks**, **tensor networks**, and **quantum libraries**
+- 🧩 Builder of low-level systems, data-driven logic, and smart integrations
+- 🗄️ Work with **relational** and **NoSQL** databases
+- 🧪 Heavy user of Python tools for AI, data analysis, and scientific computing
+- ⚙️ I write code that blends **performance with elegance**, and push machines into solving problems they weren’t built for
 
 ---
 
-### 🧰 Инструменты и библиотеки
+### 🧰 Tools & Frameworks
 
 <table style="border: 2px solid crimson;">
   <tr>
-    <th style="color:red;">Категория</th>
-    <th style="color:red;">Инструменты</th>
+    <th style="color:red;">Category</th>
+    <th style="color:red;">Tools</th>
   </tr>
   <tr>
-    <td><b>Языки</b></td>
+    <td><b>Languages</b></td>
     <td>Python, C#, C++</td>
   </tr>
   <tr>
-    <td><b>Библиотеки Python</b></td>
+    <td><b>Python Libraries</b></td>
     <td>NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras, Qiskit, OpenCV, FastAPI, Requests, SQLAlchemy</td>
   </tr>
   <tr>
-    <td><b>Базы данных</b></td>
+    <td><b>Databases</b></td>
     <td>PostgreSQL, MongoDB, SQLite</td>
   </tr>
   <tr>
-    <td><b>Среды разработки</b></td>
+    <td><b>Development Environments</b></td>
     <td>Visual Studio Code, JetBrains IDEs</td>
   </tr>
   <tr>
@@ -51,17 +52,17 @@
 
 ---
 
-### 📫 Связь со мной
+### 📫 Contact Me
 
 - 📬 Email: [PolyakovNV@edu.norvuz.ru](mailto:PolyakovNV@edu.norvuz.ru)  
 - 💬 Telegram: [@ithinkidie](https://t.me/ithinkidie)
 
 ---
 
-### 🕯️ Цитата
+### 🕯️ Quote
 
-> *“The world is not beautiful. Therefore, it is.”*  
-> — Kino no Tabi
+> *"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"*  
+> — Suzuya Juuzou
 
 ---
 
