@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 💻 Languages: **Python**, **C#**, **C++**
+- 💻 Languages: **Python**, **C#**, **C++**, **JavaScript**
 - 🧠 Experience with **neural networks**, **tensor networks**, and **quantum libraries**
 - 🧩 Builder of low-level systems, data-driven logic, and smart integrations
 - 🗄️ Work with **relational** and **NoSQL** databases
